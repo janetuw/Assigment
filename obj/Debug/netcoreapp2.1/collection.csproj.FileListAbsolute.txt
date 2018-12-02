@@ -1,0 +1,4 @@
+C:\Users\janet\Desktop\collection\obj\Debug\netcoreapp2.1\collection.csprojAssemblyReference.cache
+C:\Users\janet\Desktop\collection\obj\Debug\netcoreapp2.1\collection.csproj.CoreCompileInputs.cache
+C:\Users\janet\Desktop\collection\obj\Debug\netcoreapp2.1\collection.AssemblyInfoInputs.cache
+C:\Users\janet\Desktop\collection\obj\Debug\netcoreapp2.1\collection.AssemblyInfo.cs
