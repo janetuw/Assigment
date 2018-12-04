@@ -1,0 +1,4 @@
+C:\Users\janet\Desktop\janet's work\margrete\group work\obj\Debug\netcoreapp2.1\group work.csprojAssemblyReference.cache
+C:\Users\janet\Desktop\janet's work\margrete\group work\obj\Debug\netcoreapp2.1\group work.csproj.CoreCompileInputs.cache
+C:\Users\janet\Desktop\janet's work\margrete\group work\obj\Debug\netcoreapp2.1\group work.AssemblyInfoInputs.cache
+C:\Users\janet\Desktop\janet's work\margrete\group work\obj\Debug\netcoreapp2.1\group work.AssemblyInfo.cs

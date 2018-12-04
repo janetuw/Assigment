@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\janet\\Desktop\\janet's work\\margrete\\group work\\group work.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
